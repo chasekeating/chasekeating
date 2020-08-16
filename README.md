@@ -20,6 +20,16 @@
 
 </br>
 
+### 📕 Latest Blog Posts
+- [What is the JAMStack?](https://www.voxdigital.ca/what-is-the-jamstack/)
+- [We're Hiring for Web Developer & Designer Positions!](https://www.voxdigital.ca/were-hiring-a-web-developer-and-designer/)
+- [Average Web Design Price in Calgary Alberta](https://www.voxdigital.ca/web-design-prices-in-calgary-alberta/)
+- [The Complete Guide to Website Audits](https://www.voxdigital.ca/website-audit-guide/)
+
+➡️ [Read More...](https://voxdigital.ca/blog)
+
+---
+
 
 [website]: https://voxdigital.ca
 [twitter]: https://twitter.com/voxdigitalyyc
