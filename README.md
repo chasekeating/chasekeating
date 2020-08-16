@@ -1,6 +1,7 @@
-### Chase Keating
+# Chase Keating
+## Marketing & Design Consultant
 
-[My Portfolio][website] 👋 👋
+[My Website][website] 👋 
 
 
 [![Website](https://img.shields.io/website?label=voxdigital.ca&style=for-the-badge&url=https%3A%2F%2Fvoxdigital.ca)](https://voxdigital.ca)
