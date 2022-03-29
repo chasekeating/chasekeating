@@ -1,10 +1,11 @@
 # Chase Keating
 
+[![Website](https://img.shields.io/website?label=chasekeating.com&style=for-the-badge&url=https%3A%2F%2Fchasekeating.com)](https://chasekeating.com)
 [![Website](https://img.shields.io/website?label=voxdigital.ca&style=for-the-badge&url=https%3A%2F%2Fvoxdigital.ca)](https://voxdigital.ca)
 [![Twitter Follow](https://img.shields.io/twitter/follow/voxdigitalyyc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fvoxdigitalyyc&screen_name=voxdigitalyyc)
 
+
 ## Marketing & Design Consultant
-### Here's a look at some of my work
 
 ### Connect with me:
 
@@ -16,6 +17,9 @@
 </br>
 
 ### 📕 Latest Blog Posts
+
+- [Top Marketing Campaigns of All Time](https://voxdigital.ca/top-marketing-campaigns-of-all-time/)
+- [How to Increase Your Websites Speed](https://voxdigital.ca/how-to-increase-your-websites-speed/)
 - [What is the JAMStack?](https://www.voxdigital.ca/what-is-the-jamstack/)
 - [We're Hiring for Web Developer & Designer Positions!](https://www.voxdigital.ca/were-hiring-a-web-developer-and-designer/)
 - [Average Web Design Price in Calgary Alberta](https://www.voxdigital.ca/web-design-prices-in-calgary-alberta/)
