@@ -25,11 +25,11 @@
 [<img align="left" alt="Vox Digital Twtter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Chase Keating LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Chase Keating Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
 
-</br>
 
-### 📕 Latest Blog Posts
+</br>-->
+
+### 📕 My Latest Articles
 
 - [Top Marketing Campaigns of All Time](https://voxdigital.ca/top-marketing-campaigns-of-all-time/)
 - [How to Increase Your Websites Speed](https://voxdigital.ca/how-to-increase-your-websites-speed/)
