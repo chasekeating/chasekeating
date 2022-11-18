@@ -30,7 +30,7 @@
 </br>-->
 
 ### 📕 My Latest Articles
-
+- [Javascript SEO - Essential Guide](https://voxdigital.ca/javascript-seo/)
 - [Top Marketing Campaigns of All Time](https://voxdigital.ca/top-marketing-campaigns-of-all-time/)
 - [How to Increase Your Websites Speed](https://voxdigital.ca/how-to-increase-your-websites-speed/)
 - [What is the JAMStack?](https://www.voxdigital.ca/what-is-the-jamstack/)
