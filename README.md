@@ -47,6 +47,3 @@
 [twitter]: https://twitter.com/voxdigitalyyc
 [instagram]: https://instagram.com/chasekeating
 [linkedin]: https://www.linkedin.com/in/chasekeating/
-
-
-
